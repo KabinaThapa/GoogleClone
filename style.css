@@ -1,0 +1,27 @@
+
+
+   
+.input-group .form-control{
+    border:none;
+}
+
+.nav-item{
+    padding-right:1rem;
+}
+.input-group .container-fluid{
+    border:solid;
+    border-width: 1px;
+    border-radius: 8rem;
+    width:39rem;
+    border-color:lightgrey;
+    height:3rem;
+     
+}
+.input-group .container-fluid:hover{
+   box-shadow: 0 0 10px lightgray;
+
+}
+.input-group .input-group-text{
+    width: 1rem;
+    padding-right:1.5rem;
+}
